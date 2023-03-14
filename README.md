@@ -54,3 +54,11 @@ git reset --soft
 git reset --hard
 
 ``` 
+## ramas 
+ir al pasado
+```ssh 
+git branch #ver ramas
+git branch examplerama #crear ramas 
+git checkuout examplerama
+
+```
