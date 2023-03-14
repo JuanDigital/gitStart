@@ -60,5 +60,6 @@ ir al pasado
 git branch #ver ramas
 git branch examplerama #crear ramas 
 git checkuout examplerama
-git merge pruebas master 
+git merge pruebas master # agregar cambios de pruebas a master 
 ```
+## git commit -a -m "Texto que identifique por que se hizo el commit"
