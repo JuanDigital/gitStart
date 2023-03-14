@@ -34,7 +34,15 @@ Hacemos el primer commit
 subimos al repositorio
 ```ssh
 	git push origin master
+```
 ## tres arboles git
+```ssh 
 directorio de trabajo
 index @ intermediario
 commit status actual
+```
+## Viajes en el tiempo 
+ir al pasado
+```ssh 
+git checkuot IDENTIFICADORCOMIT
+```
