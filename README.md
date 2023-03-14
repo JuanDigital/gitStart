@@ -60,5 +60,5 @@ ir al pasado
 git branch #ver ramas
 git branch examplerama #crear ramas 
 git checkuout examplerama
-
+git merge pruebas master 
 ```
