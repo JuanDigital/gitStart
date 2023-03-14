@@ -46,3 +46,11 @@ ir al pasado
 ```ssh 
 git checkuot IDENTIFICADORCOMIT
 ```
+## resetear commits
+
+```ssh
+git reset HEAD
+git reset --soft
+git reset --hard
+
+``` 
