@@ -63,3 +63,10 @@ git checkuout examplerama
 git merge pruebas master # agregar cambios de pruebas a master 
 ```
 ## git commit -a -m "Texto que identifique por que se hizo el commit"
+## PUSH 
+main
+```ssh 
+Crear main
+git remote add origin https://github.com/JuanDigital/alfalfa.git
+git push -u origin main
+```
